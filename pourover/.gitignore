@@ -13,6 +13,7 @@
 !/log/.keep
 !/tmp/.keep
 
+/spec/failures.txt
 
 /public/assets
 .byebug_history
