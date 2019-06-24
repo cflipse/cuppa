@@ -7,3 +7,5 @@ tmp/*
 *.sw?
 
 public/assets
+
+node_modules
